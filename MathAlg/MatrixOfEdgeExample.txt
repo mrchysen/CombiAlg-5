@@ -1,0 +1,7 @@
+﻿file example
+N - quantity of vertex
+---
+N
+a_11 a_12 ... a_1n
+...
+a_n1 a_n2 ... a_nn

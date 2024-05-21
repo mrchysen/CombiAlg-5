@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombiAlg-5", "CombiAlg-5\CombiAlg-5.csproj", "{37B718CA-01AA-4EC7-BFB8-1366572C1CBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathAlg", "MathAlg\MathAlg.csproj", "{774C2ECF-8CF8-491A-9368-BA295B979139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B718CA-01AA-4EC7-BFB8-1366572C1CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B718CA-01AA-4EC7-BFB8-1366572C1CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B718CA-01AA-4EC7-BFB8-1366572C1CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B718CA-01AA-4EC7-BFB8-1366572C1CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774C2ECF-8CF8-491A-9368-BA295B979139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774C2ECF-8CF8-491A-9368-BA295B979139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774C2ECF-8CF8-491A-9368-BA295B979139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774C2ECF-8CF8-491A-9368-BA295B979139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9276E909-EA0D-4AA9-AE2A-D91672348EA3}
+	EndGlobalSection
+EndGlobal
